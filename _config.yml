@@ -3,7 +3,7 @@ title: WengerChan Blog
 SEOTitle: 陈文的博客 | WengerChan Blog
 header-img: img/home-bg.jpg
 email: cnwn1111@hotmail.com
-description: "关于程序与设计、黑客与画家 | 陈文，An Technology Enthusiast | 这里是 @WengerChan 的个人博客，与你一起发现更大的世界。"
+description: "关于我和生活 | 陈文，An Technology Enthusiast | 这里是 @WengerChan 的个人博客，与你一起发现更大的世界。"
 keyword: "陈文, 陈文Wenger, Wen, CNWN, Wenger, @WengerChan, 陈文的博客, WengerChan Blog, 博客, 个人网站, 互联网, Shell, Linux"
 url: "https://WengerChan.github.io"              # your host, for absolute URL
 baseurl: ""                                      # for example, '/blog' if your blog hosted on 'host/blog'
